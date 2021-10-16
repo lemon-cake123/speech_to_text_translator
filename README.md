@@ -6,7 +6,8 @@ translate using your voice
 this project makes translating a word easy, all you have to do is speak and... your word has been translated
 
 # instalation
-first copy the repo
+if you havent installed git the you can install from here : https://www.git-scm.com/
+first, open the command prompt and copy the repo
 
 
 
