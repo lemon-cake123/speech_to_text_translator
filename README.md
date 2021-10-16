@@ -20,6 +20,11 @@ use the following code:
 
 ![image](https://user-images.githubusercontent.com/92285372/137573234-5cb40cc5-9e79-4cfd-9f8b-f39a1f688187.png)
 
+remember to install the requirements first
+
+![image](https://user-images.githubusercontent.com/92285372/137573407-39552a8b-393c-43bb-94d9-6db31342c742.png)
+
+
 you have succesfully run the code
 
 # Contributions
