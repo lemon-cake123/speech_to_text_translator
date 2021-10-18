@@ -6,6 +6,8 @@ translate using your voice
 this project makes translating a word easy, all you have to do is speak and... your word has been translated
 
 # instalation
+python 3.9.7 or higher is needed : https://www.python.org/
+
 if you havent installed git the you can install from here : https://www.git-scm.com/
 
 first, open the command prompt and copy the repo
@@ -31,5 +33,7 @@ you have succesfully run the code
 
 # Contributions
 if you want to conribute to this project, first click fork at the top of the screen
+
 then copy the your fork into your computer and start coding
+
 after you completed your coding, open a pull request and i will review your code
