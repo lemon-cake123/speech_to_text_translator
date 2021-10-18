@@ -1,0 +1,2 @@
+#ignore wav files (how speech is converted to text)
+*.wav

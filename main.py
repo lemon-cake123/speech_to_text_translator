@@ -36,4 +36,6 @@ def main():
     translation = translator.translate(text,dest=to,src=lang)
     print(f'{translation.origin} ({translation.src}) --> {translation.text} ({translation.dest})')
     input('press any key to exit')
+    exit()
 
+main()
